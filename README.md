@@ -1,0 +1,1 @@
+# my-chinese-traditional-vocab-chrome-extension
