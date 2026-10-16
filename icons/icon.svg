@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="24" fill="#1d4ed8"/>
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-weight="bold" font-size="64" fill="#ffffff">華</text>
+  <circle cx="96" cy="32" r="12" fill="#f59e0b"/>
+</svg>

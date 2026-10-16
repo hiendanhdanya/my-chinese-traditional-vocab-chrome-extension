@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "TOCFL Vocabulary Strip",
+  "version": "1.0",
+  "description": "Dải từ vựng TOCFL A1 Phồn thể chạy dọc cạnh màn hình trên mọi trang web",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["sidebar.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
