@@ -1,1 +1,1 @@
-# my-chinese-traditional-vocab-chrome-extension
+extension for vocab learning
